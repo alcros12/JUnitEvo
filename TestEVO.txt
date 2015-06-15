@@ -1,0 +1,12 @@
+Test para validar creación de circulo (boolean):
+5
+Test para areas iguales:
+10, 100
+Test para validar mensajes iguales:
+Circulo con radio 10, Circulo con radio 10
+Test para validar creacion de circulo de forma incorrecta:
+0
+Test para validar division entre cero (numerador, denominador):
+5, 0
+Test para validar mensajes diferentes:
+Circulo con radio 10, Circulo con radio 1
